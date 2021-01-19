@@ -1,0 +1,110 @@
+Study for that project whatever done.
+We have to develop site as below. So go through it for now.
+Link: http://www.plscare.in/
+
+Super admin
+User: PLS_GAS
+Password: PLS_2020@p
+
+Workshop_admin
+User: PLS2_ANIL
+Pass: CNG_2016
+
+
+
+
+Details of FTP:
+
+Host: ftp.plscare.com
+Username: plscarecrm@plscare.com
+Password: ffg+3vPH!B!5
+New password: -q^)e2GQo-EB
+Port: 21 (without SSL)
+Encryption: Only use Plain FTP (insecure)
+Directory: public_html/crm/
+
+
+
+Cpanel:
+URL for Login: https://cpanel.plscare.com
+User: plscare1
+Password: %jqx/y+n^cdNk7w6#@%
+
+
+
+
+1: superadmin
+4: workshop_user
+5: workshop_admin
+
+
+
+noreply@plscare.com
+=4WyE9T*
+
+
+rsinghal@plscare.com
+
+19012021
+
+1: Workshop Admin login
+2: job card page link in Workshop admin
+3: Add job card in DB with series
+4: Changes according to doc for point no 1 to 7
+5: unbilled
+test report filled
+invoice generated
+partially paid
+full paid
+
+6: Workshop user creation 
+7:  Workshop company craetion it will be used while workshop user creation
+8: Workshop user login
+
+
+
+
+DB Password : 
+DB_DATABASE=plscare1_crm
+DB_USERNAME=plscare1_crm
+DB_PASSWORD=(i*Hi^?A+@~B
+
+
+
+Client Id : 27914999786-4jr7603oer7vdre5fkp24dj929mvpgg3.apps.googleusercontent.com
+Client Scret : ZhuqhiLBXMpEK7bgV4Pzco1h
+
+
+
+
+1: Workshop Admin login
+2: job card page link in Workshop admin
+3: Add job card in DB with series
+4: Changes according to doc for point no 1 to 7
+5: unbilled
+test report filled
+invoice generated
+partially paid
+full paid
+
+6: Workshop user creation 
+7:  Workshop company craetion it will be used while workshop user creation
+8: Workshop user login
+
+
+(11:39) sc: hello sir
+(11:39) sl: Hi
+(11:40) sc: Completed work is not fine
+(11:40) sc: RK's has manage the role statically
+(11:40) sc: Means he has not used laravel futures
+(11:40) sl: Let me check once
+(11:40) sc: Features*
+(11:41) sc: So it will creating some problems
+(12:48) sl: If you face any issue on server, You can continue on local & complete the things on local.
+Later on we will upload things on server.
+
+(12:49) sc: ok sir
+(12:50) sl: And in update mail mention in notes like 
+Functionality I have developed on local. Later on once I have putty access I will upload on server.
+
+
