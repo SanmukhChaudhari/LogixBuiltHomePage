@@ -1,0 +1,70 @@
+Study for that project whatever done.
+We have to develop site as below. So go through it for now.
+Link: http://www.plscare.in/
+
+Super admin
+User: PLS_GAS
+Password: PLS_2020@p
+
+Workshop_admin
+User: PLS2_ANIL
+Pass: CNG_2016
+
+
+
+
+Details of FTP:
+
+Host: ftp.plscare.com
+Username: plscarecrm@plscare.com
+Password: ffg+3vPH!B!5
+New password: -q^)e2GQo-EB
+Port: 21 (without SSL)
+Encryption: Only use Plain FTP (insecure)
+Directory: public_html/crm/
+
+
+
+Cpanel:
+URL for Login: https://cpanel.plscare.com
+User: plscare1
+Password: %jqx/y+n^cdNk7w6#@%
+
+
+
+
+1: superadmin
+4: workshop_user
+5: workshop_admin
+
+
+
+noreply@plscare.com
+=4WyE9T*
+
+
+rsinghal@plscare.com
+
+19012021
+
+1: Workshop Admin login
+2: job card page link in Workshop admin
+3: Add job card in DB with series
+4: Changes according to doc for point no 1 to 7
+5: unbilled
+test report filled
+invoice generated
+partially paid
+full paid
+
+6: Workshop user creation 
+7:  Workshop company craetion it will be used while workshop user creation
+8: Workshop user login
+
+
+
+
+DB Password : 
+DB_DATABASE=plscare1_crm
+DB_USERNAME=plscare1_crm
+DB_PASSWORD=(i*Hi^?A+@~B
